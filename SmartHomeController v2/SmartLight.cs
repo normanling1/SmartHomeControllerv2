@@ -51,6 +51,6 @@ namespace SmartHomeController
             Console.WriteLine($"Brightness: {Brightness}&, Colour: {Colour}");
 
         }
-
+        
     }
 }
